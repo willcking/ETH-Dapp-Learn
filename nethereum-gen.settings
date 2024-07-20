@@ -1,0 +1,7 @@
+{
+    "projectName": "NFTMarket",
+    "namespace": "NFTMarket.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "../"
+}
